@@ -1,4 +1,4 @@
-## About The Project
+## About
 
 Human pose estimation is the task of detecting human figures in images and videos and estimating their pose.
 
