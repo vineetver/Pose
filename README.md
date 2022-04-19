@@ -42,7 +42,7 @@ List of all the libraries you need to run the code.
 ## Roadmap
 
 - [x] Create the gif
-- [x] Normalize the data for PCA
+- [x] Normalize the data if not normalized
 - [x] Apply PCA
 - [x] Kmeans
 - [ ] Softclustering
