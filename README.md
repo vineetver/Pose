@@ -8,7 +8,7 @@ I created a gif of the human pose estimation results. The gif shows the differen
 
 ![Gif](https://github.com/vineetver/Pose/blob/main/bench%20jump.gif)
 
-I also build a classifier to distinguish different movements or group similar excercises together.
+I also implemented PCA with three different clustering algorithms to distinguish different movements/group similar excercises together.
 
 ## Getting Started
 
