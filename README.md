@@ -45,8 +45,8 @@ List of all the libraries you need to run the code.
 - [x] Normalize the data if not normalized
 - [x] Apply PCA
 - [x] Kmeans
-- [ ] Softclustering
-- [ ] Birch
+- [x] Softclustering
+- [x] Birch
 - [ ] Evaluation
 
 
