@@ -38,6 +38,11 @@ List of all the libraries you need to run the code.
   
   $ jupyter notebook
   ```
+  
+## View code
+
+[NBViewer](https://nbviewer.org/github/vineetver/Pose/blob/main/Pose.ipynb)
+ 
 
 ## Roadmap
 
