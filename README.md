@@ -12,7 +12,7 @@ I also implemented PCA with three different clustering algorithms to distinguish
 
 ## Getting Started
 
-### Dependancies
+### Dependencies
 
 List of all the libraries you need to run the code.
 
